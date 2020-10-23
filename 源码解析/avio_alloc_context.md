@@ -9,4 +9,4 @@ AVIOContext *avio_alloc_context(
                   int64_t (*seek)(void *opaque, int64_t offset, int whence));
 ```
 
-`buf_size`:默认是32768字节，后面会进行修改
+`buf_size`:默认是32778字节，后面会进行修改
